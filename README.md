@@ -1,6 +1,6 @@
-# AdsGPT: Getting quick insights into digital marketing ads
+# Ad
 
-## About AdsGPT
+## About Ad
 AI app to find real-time that gives quick insights into latest changes in digital marketingss' ads who are spending a lot of money (and thus taking more data-led decisions) "
 "It uses Pathway’s [LLM App features](https://github.com/pathwaycom/llm-app) to build real-time LLM(Large Language Model)-enabled data pipeline in Python and join data from multiple input sources.
 
